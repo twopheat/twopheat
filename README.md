@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**twopheat/twopheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is my ✨ _special_ ✨ repository, w.i.p.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on KICKapps.org
+- 🌱 I’m currently learning Auth
+- 👯 I’m looking to collaborate on Reel Big
+- 🤔 I’m looking for help with Start-Up Guidance
+- 💬 Ask me about User Experience Love
+- 📫 How to reach me: twopheat@gmail.com
+- 😄 Pronouns: we are everyone
+- ⚡ Fact: Black Lives Matter.
+

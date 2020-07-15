@@ -5,7 +5,7 @@ This is my ✨ _special_ ✨ repository, w.i.p.
 
 
 
-- 🔭 I’m currently working on KICKapps.org
+- 🔭 I’m currently working on https://KICKapps.org
 - 🌱 I’m currently learning Auth
 - 👯 I’m looking to collaborate on Reel Big
 - 🤔 I’m looking for help with Start-Up Guidance

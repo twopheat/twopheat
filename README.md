@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on https://KICKapps.org
+- 🔭 I’m currently working on ReelBig
 - 🌱 I’m currently learning Supabase and Next.js
 - 👯 I’m looking to collaborate on ReelBig and go to YCombinator
 - 🤔 I’m looking for help with Start-Up Guidance
